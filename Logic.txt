@@ -1,0 +1,9 @@
+Logic
+
+There are 3 coins on the table: gold, silver, and bronze. If you make a true
+statement, you will get one coin. If you make a false statement, you will
+get nothing. What sentence can guarantee you getting the gold coin?
+
+Answer.
+
+You will not give me the bronze & the silver. If it is true > I will get gold, else > I also will get a gold (because minus multiply minus equal +)
